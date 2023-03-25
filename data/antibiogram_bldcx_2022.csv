@@ -1,0 +1,217 @@
+Organism,Organism Count,Antibiotic,Antibiotic Count,Sensitive Count
+Klebsiella pneumoniae,206,ceFAZolin,206,192
+Klebsiella pneumoniae,206,Meropenem,206,203
+Klebsiella pneumoniae,206,Ampicillin/Sulbactam,205,174
+Klebsiella pneumoniae,206,Amikacin,206,206
+Klebsiella pneumoniae,206,Trimeth/Sulfa,206,184
+Klebsiella pneumoniae,206,Tobramycin,206,204
+Klebsiella pneumoniae,206,Piperacillin/Tazobactam,205,196
+Klebsiella pneumoniae,206,cefEPime,206,202
+Klebsiella pneumoniae,206,cefTAZIDime,206,201
+Klebsiella pneumoniae,206,cefTRIAXone,206,199
+Klebsiella pneumoniae,206,Ciprofloxacin,206,201
+Klebsiella pneumoniae,206,Gentamicin,206,204
+Klebsiella pneumoniae,206,Levofloxacin,206,200
+Klebsiella pneumoniae,206,aztreoNAM,206,199
+Klebsiella pneumoniae,206,Ampicillin,2,0
+Staphylococcus aureus,87,Oxacillin,87,87
+Staphylococcus aureus,87,Erythromycin,87,55
+Staphylococcus aureus,87,Clindamycin,87,61
+Staphylococcus aureus,87,Vancomycin,87,87
+Staphylococcus aureus,87,Penicillin,87,18
+Staphylococcus aureus,87,Trimeth/Sulfa,87,86
+Staphylococcus aureus,87,Tetracycline,87,83
+Staphylococcus aureus,87,Linezolid,1,1
+Staphylococcus aureus,87,DAPTOmycin,1,1
+Coagulase Negative Staphylococcus,130,Clindamycin,130,78
+Coagulase Negative Staphylococcus,130,Erythromycin,130,42
+Coagulase Negative Staphylococcus,130,Oxacillin,130,60
+Coagulase Negative Staphylococcus,130,Penicillin,128,18
+Coagulase Negative Staphylococcus,130,Tetracycline,130,99
+Coagulase Negative Staphylococcus,130,Trimeth/Sulfa,128,80
+Coagulase Negative Staphylococcus,130,Vancomycin,130,130
+Coagulase Negative Staphylococcus,130,DAPTOmycin,1,0
+Coagulase Negative Staphylococcus,130,Linezolid,1,0
+Enterococcus faecium Vancomycin Resistant,54,Ampicillin,54,0
+Enterococcus faecium Vancomycin Resistant,54,DAPTOmycin,54,52
+Enterococcus faecium Vancomycin Resistant,54,Vancomycin,54,0
+Enterococcus faecium Vancomycin Resistant,54,Penicillin,54,0
+Enterococcus faecium Vancomycin Resistant,54,Linezolid,54,54
+Escherichia coli,288,Amikacin,288,288
+Escherichia coli,288,aztreoNAM,288,279
+Escherichia coli,288,Ampicillin/Sulbactam,288,175
+Escherichia coli,288,Trimeth/Sulfa,288,209
+Escherichia coli,288,Tobramycin,288,260
+Escherichia coli,288,Piperacillin/Tazobactam,288,275
+Escherichia coli,288,Meropenem,288,286
+Escherichia coli,288,Levofloxacin,288,221
+Escherichia coli,288,Gentamicin,288,253
+Escherichia coli,288,Ciprofloxacin,288,221
+Escherichia coli,288,cefTRIAXone,288,277
+Escherichia coli,288,cefTAZIDime,288,281
+Escherichia coli,288,cefEPime,288,285
+Escherichia coli,288,ceFAZolin,288,253
+Escherichia coli,288,Ampicillin,288,154
+Streptococcus anginosus Group,48,Vancomycin,39,39
+Streptococcus anginosus Group,48,cefTRIAXone,39,39
+Streptococcus anginosus Group,48,Levofloxacin,39,38
+Streptococcus anginosus Group,48,Penicillin,39,38
+Enterococcus faecium,50,Penicillin,49,9
+Enterococcus faecium,50,Ampicillin,49,11
+Enterococcus faecium,50,Vancomycin,49,48
+Enterobacter cloacae complex,56,Trimeth/Sulfa,56,50
+Enterobacter cloacae complex,56,Tobramycin,56,56
+Enterobacter cloacae complex,56,Tetracycline,56,51
+Enterobacter cloacae complex,56,Piperacillin/Tazobactam,56,51
+Enterobacter cloacae complex,56,Meropenem,56,56
+Enterobacter cloacae complex,56,Levofloxacin,56,55
+Enterobacter cloacae complex,56,Amikacin,56,56
+Enterobacter cloacae complex,56,Ciprofloxacin,56,55
+Enterobacter cloacae complex,56,cefTRIAXone,56,44
+Enterobacter cloacae complex,56,cefTAZIDime,56,49
+Enterobacter cloacae complex,56,cefEPime,56,56
+Enterobacter cloacae complex,56,aztreoNAM,56,49
+Enterobacter cloacae complex,56,Gentamicin,56,56
+Citrobacter freundii complex,20,Gentamicin,20,20
+Citrobacter freundii complex,20,Ciprofloxacin,20,19
+Citrobacter freundii complex,20,cefTRIAXone,20,13
+Citrobacter freundii complex,20,cefTAZIDime,20,14
+Citrobacter freundii complex,20,Trimeth/Sulfa,20,20
+Citrobacter freundii complex,20,Levofloxacin,20,19
+Citrobacter freundii complex,20,Meropenem,20,20
+Citrobacter freundii complex,20,Piperacillin/Tazobactam,20,16
+Citrobacter freundii complex,20,Tobramycin,20,20
+Citrobacter freundii complex,20,Tetracycline,20,19
+Citrobacter freundii complex,20,cefEPime,20,19
+Citrobacter freundii complex,20,aztreoNAM,20,13
+Citrobacter freundii complex,20,Amikacin,20,20
+Staphylococcus aureus Oxacillin Resistant,25,Linezolid,25,25
+Staphylococcus aureus Oxacillin Resistant,25,Oxacillin,25,0
+Staphylococcus aureus Oxacillin Resistant,25,Penicillin,25,0
+Staphylococcus aureus Oxacillin Resistant,25,Tetracycline,25,21
+Staphylococcus aureus Oxacillin Resistant,25,Erythromycin,25,5
+Staphylococcus aureus Oxacillin Resistant,25,Vancomycin,25,25
+Staphylococcus aureus Oxacillin Resistant,25,Clindamycin,25,16
+Staphylococcus aureus Oxacillin Resistant,25,DAPTOmycin,25,25
+Staphylococcus aureus Oxacillin Resistant,25,Trimeth/Sulfa,25,18
+Streptococcus bovis Group,16,Penicillin,14,14
+Streptococcus bovis Group,16,Levofloxacin,14,9
+Streptococcus bovis Group,16,cefTRIAXone,14,14
+Streptococcus bovis Group,16,Vancomycin,14,14
+Escherichia coli ESBL,69,Trimeth/Sulfa,69,28
+Escherichia coli ESBL,69,Tobramycin,69,44
+Escherichia coli ESBL,69,Ciprofloxacin,69,12
+Escherichia coli ESBL,69,Gentamicin,69,55
+Escherichia coli ESBL,69,cefTRIAXone,69,0
+Escherichia coli ESBL,69,Meropenem,69,69
+Escherichia coli ESBL,69,Levofloxacin,69,13
+Escherichia coli ESBL,69,cefTAZIDime,69,0
+Escherichia coli ESBL,69,cefEPime,69,0
+Escherichia coli ESBL,69,ceFAZolin,69,0
+Escherichia coli ESBL,69,aztreoNAM,69,0
+Escherichia coli ESBL,69,Ampicillin,69,0
+Escherichia coli ESBL,69,Amikacin,69,66
+Enterococcus faecalis,63,Vancomycin,63,63
+Enterococcus faecalis,63,Penicillin,63,63
+Enterococcus faecalis,63,Ampicillin,63,63
+Streptococcus mitis group,90,Levofloxacin,90,49
+Streptococcus mitis group,90,cefTRIAXone,90,88
+Streptococcus mitis group,90,Penicillin,90,68
+Streptococcus mitis group,90,Vancomycin,89,89
+Streptococcus mitis group,90,Erythromycin,2,1
+Serratia marcescens,25,Amikacin,25,25
+Serratia marcescens,25,aztreoNAM,25,16
+Serratia marcescens,25,Tetracycline,25,2
+Serratia marcescens,25,Tobramycin,25,23
+Serratia marcescens,25,Trimeth/Sulfa,25,25
+Serratia marcescens,25,Piperacillin/Tazobactam,25,13
+Serratia marcescens,25,Meropenem,25,25
+Serratia marcescens,25,Levofloxacin,25,25
+Serratia marcescens,25,cefEPime,25,24
+Serratia marcescens,25,cefTAZIDime,25,13
+Serratia marcescens,25,cefTRIAXone,25,14
+Serratia marcescens,25,Ciprofloxacin,25,25
+Serratia marcescens,25,Gentamicin,25,25
+Klebsiella oxytoca,39,Piperacillin/Tazobactam,39,38
+Klebsiella oxytoca,39,Tobramycin,39,39
+Klebsiella oxytoca,39,Trimeth/Sulfa,39,39
+Klebsiella oxytoca,39,Gentamicin,39,39
+Klebsiella oxytoca,39,Meropenem,39,39
+Klebsiella oxytoca,39,Levofloxacin,39,39
+Klebsiella oxytoca,39,Ciprofloxacin,39,39
+Klebsiella oxytoca,39,cefTRIAXone,39,38
+Klebsiella oxytoca,39,cefTAZIDime,39,39
+Klebsiella oxytoca,39,cefEPime,39,39
+Klebsiella oxytoca,39,ceFAZolin,39,22
+Klebsiella oxytoca,39,aztreoNAM,39,38
+Klebsiella oxytoca,39,Ampicillin/Sulbactam,39,30
+Klebsiella oxytoca,39,Amikacin,39,39
+Klebsiella (formerly Enterobacter) aerogenes,16,Trimeth/Sulfa,16,16
+Klebsiella (formerly Enterobacter) aerogenes,16,Tobramycin,16,16
+Klebsiella (formerly Enterobacter) aerogenes,16,Tetracycline,16,15
+Klebsiella (formerly Enterobacter) aerogenes,16,Piperacillin/Tazobactam,16,14
+Klebsiella (formerly Enterobacter) aerogenes,16,Meropenem,16,16
+Klebsiella (formerly Enterobacter) aerogenes,16,Levofloxacin,16,16
+Klebsiella (formerly Enterobacter) aerogenes,16,Amikacin,16,16
+Klebsiella (formerly Enterobacter) aerogenes,16,Ciprofloxacin,16,16
+Klebsiella (formerly Enterobacter) aerogenes,16,cefTRIAXone,16,13
+Klebsiella (formerly Enterobacter) aerogenes,16,cefTAZIDime,16,13
+Klebsiella (formerly Enterobacter) aerogenes,16,cefEPime,16,16
+Klebsiella (formerly Enterobacter) aerogenes,16,aztreoNAM,16,13
+Klebsiella (formerly Enterobacter) aerogenes,16,Gentamicin,16,16
+Pseudomonas aeruginosa,68,Amikacin,68,67
+Pseudomonas aeruginosa,68,aztreoNAM,68,54
+Pseudomonas aeruginosa,68,cefEPime,68,65
+Pseudomonas aeruginosa,68,Tobramycin,68,68
+Pseudomonas aeruginosa,68,Piperacillin/Tazobactam,68,67
+Pseudomonas aeruginosa,68,Meropenem,68,66
+Pseudomonas aeruginosa,68,Levofloxacin,68,66
+Pseudomonas aeruginosa,68,Gentamicin,68,63
+Pseudomonas aeruginosa,68,cefTAZIDime,68,61
+Pseudomonas aeruginosa,68,Ciprofloxacin,68,66
+Enterobacter cloacae/asburiae,23,Trimeth/Sulfa,23,19
+Enterobacter cloacae/asburiae,23,Tobramycin,23,23
+Enterobacter cloacae/asburiae,23,Tetracycline,23,21
+Enterobacter cloacae/asburiae,23,Piperacillin/Tazobactam,23,20
+Enterobacter cloacae/asburiae,23,Meropenem,23,23
+Enterobacter cloacae/asburiae,23,Levofloxacin,23,23
+Enterobacter cloacae/asburiae,23,Gentamicin,23,23
+Enterobacter cloacae/asburiae,23,Ciprofloxacin,23,23
+Enterobacter cloacae/asburiae,23,cefTRIAXone,23,18
+Enterobacter cloacae/asburiae,23,cefTAZIDime,23,19
+Enterobacter cloacae/asburiae,23,cefEPime,23,22
+Enterobacter cloacae/asburiae,23,Amikacin,23,22
+Enterobacter cloacae/asburiae,23,aztreoNAM,23,18
+Streptococcus salivarius group,23,Penicillin,21,14
+Streptococcus salivarius group,23,Levofloxacin,21,18
+Streptococcus salivarius group,23,cefTRIAXone,21,21
+Streptococcus salivarius group,23,Vancomycin,21,21
+Stenotrophomonas maltophilia,21,Levofloxacin,21,20
+Stenotrophomonas maltophilia,21,Trimeth/Sulfa,21,20
+Stenotrophomonas maltophilia,21,cefTAZIDime,21,13
+Staphylococcus epidermidis (Coagulase Negative Staph),279,Trimeth/Sulfa,278,105
+Staphylococcus epidermidis (Coagulase Negative Staph),279,Tetracycline,279,242
+Staphylococcus epidermidis (Coagulase Negative Staph),279,Penicillin,278,12
+Staphylococcus epidermidis (Coagulase Negative Staph),279,Oxacillin,279,81
+Staphylococcus epidermidis (Coagulase Negative Staph),279,Vancomycin,279,279
+Staphylococcus epidermidis (Coagulase Negative Staph),279,Clindamycin,279,112
+Staphylococcus epidermidis (Coagulase Negative Staph),279,Erythromycin,279,71
+Streptococcus pneumoniae,18,cefTRIAXone,18,18
+Streptococcus pneumoniae,18,Levofloxacin,18,16
+Streptococcus pneumoniae,18,Penicillin,18,18
+Streptococcus pneumoniae,18,Erythromycin,18,12
+Proteus mirabilis,15,Ampicillin,15,12
+Proteus mirabilis,15,Ampicillin/Sulbactam,15,12
+Proteus mirabilis,15,aztreoNAM,15,15
+Proteus mirabilis,15,ceFAZolin,15,13
+Proteus mirabilis,15,cefEPime,15,15
+Proteus mirabilis,15,cefTAZIDime,15,15
+Proteus mirabilis,15,cefTRIAXone,15,14
+Proteus mirabilis,15,Ciprofloxacin,15,14
+Proteus mirabilis,15,Gentamicin,15,12
+Proteus mirabilis,15,Levofloxacin,15,15
+Proteus mirabilis,15,Meropenem,15,15
+Proteus mirabilis,15,Piperacillin/Tazobactam,15,15
+Proteus mirabilis,15,Tobramycin,15,13
+Proteus mirabilis,15,Trimeth/Sulfa,15,13
+Proteus mirabilis,15,Amikacin,15,15
